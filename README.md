@@ -14,6 +14,18 @@ The main file for this demo is `demo_tool.py`.
 
 ## Architecture
 
+Simple architecture:
+
+```text
+MacBook
+  -> MLX local model server
+  -> LangGraph workflow
+  -> Weather tool
+  -> Search tool
+  -> Local model synthesis
+  -> Report saved locally
+```
+
 ```mermaid
 flowchart TD
     User["User task<br/>--task, --city, --search"] --> CLI["demo_tool.py<br/>Python CLI"]
