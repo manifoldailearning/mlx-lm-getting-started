@@ -341,3 +341,7 @@ Want a structured path for building real AI applications with Claude Code and AI
 Join Claude Code & AI Builder Lab:
 
 https://learn.manifoldailearning.com/services/claude-code-ai-builder-lab
+
+Checkout the bootcamp:
+
+https://learn.manifoldailearning.com/services/agenticaibootcamp
